@@ -1,1 +1,1 @@
-# bible-tamil
+# bible
